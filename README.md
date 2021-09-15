@@ -1,1 +1,1 @@
-Website: https://github.com/ceaiius/Ye.git
+Website: https://ceaiius.github.io/Ye/
